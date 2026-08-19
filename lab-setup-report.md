@@ -68,3 +68,26 @@ Add your own screenshots here.
 Summarize what was learned and what was successfully configured.
 
 > Do not submit this report as complete until the blank fields and evidence sections contain your actual lab information and screenshots.
+
+
+## Lab Setup Screenshots
+
+### 1. Kali Linux Desktop & IP Address
+![Kali Linux Desktop](screenshots/Kali%20Linux%20Desktop%20%28IP%20Address%29.jpeg)
+
+### 2. Internet Connectivity Test
+![Ping 8.8.8.8](screenshots/Ping%208.8.8.8.jpeg)
+
+## 3. Wireshark Packet Analysis
+
+### ICMP Traffic
+![Wireshark ICMP](screenshots/Wireshark%20ICMP.png)
+
+### DNS Traffic
+![Wireshark DNS](screenshots/Wireshark%20DNS.png)
+
+### HTTP Traffic
+![Wireshark HTTP](screenshots/Wireshark%20HTTP.png)
+
+### TLS Traffic
+![Wireshark TLS](screenshots/Wireshark%20TLS.png)
